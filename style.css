@@ -1,0 +1,41 @@
+.body_background 
+{
+    background-image: url("https://img.search.brave.com/AqHH1xeeQkkhN7QAcw7b71D0EzmIDSazVktdrCKfo7w/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/d2NjZnRlY2guY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIw/LzA1L01pbmVjcmFm/dC1EdW5nZW9ucy1R/SEQuanBn");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
